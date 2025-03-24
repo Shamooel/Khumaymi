@@ -5,7 +5,7 @@ const connection = mysql.createConnection({
     host: "localhost",   // Change if using a remote server
     user: "root",        // Your MySQL username
     password: "",        // Your MySQL password
-    database: "khumaymi_db", // Replace with your actual database name
+    database: "clothes", // Replace with your actual database name
 });
 
 // Connect to MySQL
